@@ -1,0 +1,25 @@
+{
+  "name": "ra2311003012126",
+  "version": "1.0.0",
+  "description": "Code Repository for Afford Medicals Placement Assessment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RushiMaisuriya225/RA2311003012126.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RushiMaisuriya225/RA2311003012126/issues"
+  },
+  "homepage": "https://github.com/RushiMaisuriya225/RA2311003012126#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
