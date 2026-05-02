@@ -213,6 +213,18 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Custom Additions for Assessment ---
+# Operating System Files
+.DS_Store
+Thumbs.db
 
+# Node (Explicitly required by instructions)
+node_modules/
+npm-debug.log
+
+# C++ Compilation Outputs
+*.out
+*.exe
+*.o
 # Streamlit
 .streamlit/secrets.toml
